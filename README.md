@@ -12,11 +12,11 @@ $ pip install mechanize
 
 $ git clone https://github.com/AciLNiBoss/V3
 
-$git pull
-
 $cd V3
 
-$python V3.py
+$git pull
+
+$python run.py
 
 Terimakasih 👍
 Bertanya² langsung ke wa saja
