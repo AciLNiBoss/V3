@@ -1,6 +1,5 @@
-import os
-from acil01 import acil01
-
-if __name__ == '__main__':
-    os.system("git pull")
-    login()
+if __name__ == "__main__":
+        try:
+                __import__("acil01").login()
+        except Exception as e:
+                exit(str(e))
