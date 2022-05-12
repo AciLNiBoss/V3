@@ -4,7 +4,9 @@ $ pkg update && pkg upgrade
 
 $ pkg install python
 
-$ pip install bs4
+$ pkg install cython
+
+$pip instal bs4
 
 $ pip install requests
 
