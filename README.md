@@ -20,5 +20,7 @@ $git pull
 
 $python run.py
 
+$ python 32bit.py (khusus 32bit)
+
 Terimakasih 👍
 Bertanya² langsung ke wa saja
